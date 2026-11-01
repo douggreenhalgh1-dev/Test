@@ -30,6 +30,30 @@ For context only, since these are not on the southside: NEXTDC B1 (CBD) and B2 (
 
 ---
 
+## 2a. Pricing and contact details for enquiries
+
+Prices are **indicative only**, taken from public listings, some several years old. No southside operator publishes current 2RU retail pricing, so ask each for a written quote.
+
+| Provider / site | Indicative 2RU price | Phone | Email / enquiry route | Notes |
+|---|---|---|---|---|
+| **iseek** (100 Ipswich Rd, Woolloongabba) | Quote only | **1300 661 668** | **sales@iseek.com.au** (general: info@iseek.com.au). Web: iseek.com.au/contact | Head office: Level 22, 144 Edward St, Brisbane QLD 4000. Ask specifically for "shared-rack 2RU at Woolloongabba". iseek mostly sells racks and half-racks, so small units may need a partner or reseller. |
+| **Servers Australia** (96 Lytton Rd, East Brisbane, or B1 Milton) | **~$129–$164/month ex GST** (2RU, 0.5 kW A+B, 1 TB, $0 setup; 2020-era listing) | **1300 788 862** (alt +61 2 8115 8800) | serversaustralia.com.au/marketplace/buy-colocation/2ru | Confirm **which Brisbane site** the 2RU would go into. Their current B1 is at 14 Finchley St, Milton (northside). |
+| **Interactive** (19 McKechnie Dr, Eight Mile Plains) | Quote only | Sales: **1300 584 644**. 24/7 service desk: 1300 669 670 | interactive.com.au/contact-us | Head office: 461 Williamstown Rd, Port Melbourne VIC 3207, (03) 9921 8444. Enterprise focus, so expect a minimum spend. |
+| **Host Networks** (Unit 1, 53 Brandl St, Eight Mile Plains) | Quote for 2RU. Published: half cabinet **$1,595/month + $550 setup**, data blocks $110 (500 GB) to $1,100 (100 Mbit unmetered) | **(07) 3118 5449** *(from their Facebook page, so verify)* | hostnetworks.com.au/products/colocation | No lock-in contracts and 24×7 phone support advertised. Likely the most flexible for a single 2RU. |
+| **Polaris Data Centre** (11 Mary Mackenroth Ln, Springfield Central) | Quote only | **(07) 3819 9800** | polarisdatacentre.com.au ("Enquire now" / "Arrange a tour") | Owned by Springfield City Group. Small-unit colocation inside Polaris is also resold by **Oper8 ("Coloc8")**, Level 7, 145 Sinnathamby Blvd, Springfield, with prices by email request. |
+
+**Northside reseller benchmarks (published 2RU prices, for comparison when negotiating):**
+
+| Reseller | Facility | 2RU price |
+|---|---|---|
+| Fluccs | NEXTDC B1 (CBD) | $142/month ex GST (4 TB) to $199/month |
+| DP Unicom | Brisbane | $150 / $180 / $250 per month inc GST, plus $200 setup, 12-month term |
+| Intergrid | BDC Fortitude Valley / Equinix BR1 | $149–$290/month, no contract for 1–10U |
+
+> **Budget guide:** a 2RU with 0.5–1 kW A+B power and 1 Gbps in Brisbane typically lands at **$130–$300/month ex GST**. Higher power (>1 kW) or unmetered bandwidth pushes this up.
+
+---
+
 ## 3. Sizing the 2RU request (what to give providers)
 
 Typical 2RU VM host (e.g. Dell R750/R760, HPE DL380 Gen11, Lenovo SR650):
@@ -76,4 +100,5 @@ Typical 2RU VM host (e.g. Dell R750/R760, HPE DL380 Gen11, Lenovo SR650):
 - Interactive Brisbane: https://www.interactive.com.au/services/data-centres/locations/brisbane/, https://colo.exchange/data-centers/interactive-interactive-brisbane
 - Servers Australia / Oz Servers: https://www.datacentermap.com/australia/brisbane/oz-servers, https://www.serversaustralia.com.au/marketplace/buy-colocation, https://docs.serversaustralia.com.au/docs/colocation
 - Polaris: https://cloudscene.com/data-center/australia/brisbane/polaris-data-center-polaris-data-centre, https://datacenterhawk.com/marketplace/providers/polaris-data-centre/11-mary-mackenroth-lane-springfield-central-qld-4300-australia/1078703
+- Contacts: https://iseek.com.au/contact/, https://qassure.com.au/supplier/details/11533, https://www.interactive.com.au/contact-us/, https://www.facebook.com/hostnetworksau/, https://www.polarisdatacentre.com.au/, https://oper8.freshservice.com/support/solutions/articles/6371-which-data-centres-, https://www.whtop.com/plans/serversaustralia.com.au/97662
 - 2RU price benchmarks: https://intergrid.au/colocation/brisbane/, https://www.fluccs.com.au/colocation/brisbane/, http://www.dpunicom.com/brisbane-colocation.html, https://summitinternet.com.au/datacentre/datacentre-colocation/
